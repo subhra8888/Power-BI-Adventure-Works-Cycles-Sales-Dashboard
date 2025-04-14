@@ -5,3 +5,7 @@ This data was derived from the [AdventureWorks sample databases](https://learn.m
 The customer base is spread across 6 countries on 3 continents: Australia, Canada, France, Germany, United Kingdom and United States. Sales and return data is available for the period between 01/01/2020 and 30/06/2022. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status.
 
 ## Features
+* Track key performance indicators (KPIs) related to sales, revenue, profit, and returns.
+* Compare performance across different regions.
+* Analyse product-level trends.
+* Identify high-value customers.
