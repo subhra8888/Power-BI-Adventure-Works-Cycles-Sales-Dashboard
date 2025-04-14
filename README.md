@@ -12,3 +12,8 @@ The customer base is spread across 6 countries on 3 continents: Australia, Canad
 
   ## Project Highlights
   This project involved the following tasks:
+* Connecting and transforming the raw data
+* Building a relational data model
+* Creating calculated columns and measures using DAX
+* Created a rolling calendar using PowerQuery M code
+* Building an interactive dashboard
