@@ -23,3 +23,9 @@ The customer base is spread across 6 countries on 3 continents: Australia, Canad
   * high-level KPIs for revenue, profit, orders and return rates
   * page-level filtering by product and product category
  *  drill-through per product to product detail view
+
+ ### Map View
+ * total orders per country
+ ### Product Detail View
+* Per-product performance against order, revenue and profit targets
+* "What if" analysis via price adjustment shows adjusted profit
