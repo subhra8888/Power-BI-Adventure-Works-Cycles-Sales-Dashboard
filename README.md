@@ -29,3 +29,11 @@ The customer base is spread across 6 countries on 3 continents: Australia, Canad
  ### Product Detail View
 * Per-product performance against order, revenue and profit targets
 * "What if" analysis via price adjustment shows adjusted profit
+ ### Customer Detail View
+ * Total customer and per-customer revenue analysis
+ ### Custom UI Elements
+* Filter pane for filtering by year and geography
+* Custom tooltip for product category order metrics
+
+
+
