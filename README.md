@@ -10,7 +10,7 @@ The customer base is spread across 6 countries on 3 continents: Australia, Canad
 * Analyse product-level trends.
 * Identify high-value customers.
 
-  ## Project Highlights
+## Project Highlights
   This project involved the following tasks:
   * Connecting and transforming the raw data
   * Building a relational data model
