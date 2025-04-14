@@ -17,3 +17,9 @@ The customer base is spread across 6 countries on 3 continents: Australia, Canad
   * Creating calculated columns and measures using DAX
   * Created a rolling calendar using PowerQuery M code
   * Building an interactive dashboard
+
+## Dashboard Elements
+ ### Executive Summary View
+  * high-level KPIs for revenue, profit, orders and return rates
+  * page-level filtering by product and product category
+ *  drill-through per product to product detail view
