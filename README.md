@@ -72,7 +72,7 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
 [Click here to access the Power BI dataset](https://drive.google.com/drive/folders/1evNA3oT4vTgGGTYEmuAqQFJc-sH_WRzr?usp=sharing)
 
 ### 🖼️ Report Screenshot
-[Power BI Dashboard](assets/dashboard.png)
+[Power BI Dashboard](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard/blob/master/Final%20Report%20View.png)
 
 
 
