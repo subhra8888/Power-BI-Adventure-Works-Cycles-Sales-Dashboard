@@ -62,7 +62,9 @@ A Microsoft Power BI business intelligence dashboard designed for **AdventureWor
 * United States contributes the highest revenue share.
 * Revenue exceeded by 5.8%, indicating strong performance and potential growth opportunities.
 * Order volume surpassing the target by 9.1%, signaling strong demand and operational efficiency."
-* Forecast suggests positive revenue growth.
+* Revenue growth accelerated significantly from 45.59% in 2016 to 211.12% in 2017.
+* Highest Selling Product Category: "Bikes"
+* Top Subcategory by Order Quantity: "Tires and Tubes"
 
 # 📂 Dataset
 [Click here to access the Power BI dataset](https://drive.google.com/drive/folders/1evNA3oT4vTgGGTYEmuAqQFJc-sH_WRzr?usp=sharing)
