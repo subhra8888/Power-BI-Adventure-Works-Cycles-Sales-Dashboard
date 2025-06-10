@@ -5,7 +5,7 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
 ![Final Report](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard/blob/master/Final%20Report%20View.png)
 
 
-The customer base is spread across 6 countries on 3 continents: Australia, Canada, France, Germany, United Kingdom and United States. Sales and return data is available for the period between 01/01/2020 and 30/06/2022. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status.
+The customer base is spread across 6 countries on 3 continents: Australia, Canada, France, Germany, United Kingdom and United States. Sales and return data is available for the period between 01/01/2015 and 30/06/2017. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status.
 
 ## Features
 * Track key performance indicators (KPIs) related to sales, revenue, profit, and returns.
