@@ -61,6 +61,7 @@ A Microsoft Power BI business intelligence dashboard designed for **AdventureWor
 ## 📈 Key Insights
 * United States contributes the highest revenue share.
 * Revenue exceeded by 5.8%, indicating strong performance and potential growth opportunities.
+* Order volume surpassing the target by 9.1%, signaling strong demand and operational efficiency."
 * Forecast suggests positive revenue growth.
 
 # 📂 Dataset
