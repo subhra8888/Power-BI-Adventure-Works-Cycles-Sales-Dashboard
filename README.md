@@ -47,7 +47,7 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
  * Monthly Revenue Forecast – Line chart with 90% confidence interval
  * Monthly Return Quantity, Orders & Returns – Area chart
  * KPI Cards:
-      *Revenue vs Target Revenue
+   * Revenue vs Target Revenue
  
  ### Custom UI Elements
 * Filter pane for filtering by year and geography
