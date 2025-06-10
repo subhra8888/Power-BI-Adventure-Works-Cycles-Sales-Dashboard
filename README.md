@@ -68,5 +68,11 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
 * Forecast suggests positive growth trajectory post-June 2017.
 * Price increase simulation indicates marginal impact on revenue from premium segments.
 
+### 📂 Dataset Link
+[Click here to access the Power BI dataset](https://drive.google.com/drive/folders/1evNA3oT4vTgGGTYEmuAqQFJc-sH_WRzr?usp=sharing)
+
+
+  
+
 
 
