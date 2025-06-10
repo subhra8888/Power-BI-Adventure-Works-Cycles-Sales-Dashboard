@@ -7,10 +7,12 @@ A Microsoft Power BI business intelligence dashboard for AdventureWorks, a ficti
 This data was derived from the [AdventureWorks sample databases](https://drive.google.com/drive/folders/1evNA3oT4vTgGGTYEmuAqQFJc-sH_WRzr?usp=sharing) available from Microsoft. 
 
 ## Features
-* Track key performance indicators (KPIs) related to sales, revenue, profit, and returns.
-* Compare performance across different regions.
-* Analyse product-level trends.
-* Identify high-value customers.
+* Interactive, multi-page Power BI dashboard.
+* Sales, returns, and customer analysis with multiple visual types.
+* Forecasting and what-if analysis.
+* Row-Level Security (RLS) for user-specific views.
+* Natural Language Query (NLQ) integration.
+* Custom tooltips, slicers, and bookmarks for enhanced user experience.
 
 ## Project Highlights
   This project involved the following tasks:
