@@ -22,11 +22,11 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
   * **RLS:** Data restricted by user role to maintain confidentiality.
   * **Interactive Dashboard:** Filters, tooltips, and bookmarks enhance report navigation and insights.
 
-## Dashboard Elements
- ### Executive Summary View
-  * High-level KPIs for revenue, profit, orders and return rates
-  * Page-level filtering by product and product category
- *  Drill-through per product to product detail view
+## 📊 Dashboard Elements
+ ### Map View
+  * **Revenue by Country** – Map visual
+  * **Top 5 Customers by Revenue via NLQ** – Matrix filtered by region
+ *  **Bookmark** – Highlights Europe’s 6-month World Cup duration
 
  ### Map View
  * Total orders per country
