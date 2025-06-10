@@ -60,9 +60,13 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
  * **Tooltip** – Return quantity by category
  * **Global Year Filter** – Page-level filter across all views
 
-## Insights
-* Approximately $24.9 million in revenue and $10.5 million in profit was generated between 01/01/2020 and 30/06/2022. There is an appreciable dip in revenue between 01/06/2020 and 01/11/2020 (possibly due to the simulated impact of the COVID-19 pandemic), after which revenue appears to grow linearly. December 2021 was an exceptional year in terms of revenue at $1.64 million, and it would be worth investigated the cause of this. Was this due to a highly successful seasonal campaign, e.g. a Black Friday promotion?
-* Understandably, tires and tubes are the most ordered product type, while cycling shorts are the most returned product type. After mountain bike fenders, sports helmets top the list of revenue-generating products, despite having relatively high return rates:
+## 📈 Key Insights
+* United States contributes the highest revenue share.
+* Accessories and Bikes are top-performing categories.
+* YOY revenue shows a steady upward trend despite return rates.
+* Customer concentration is high — a few customers account for the bulk of revenue.
+* Forecast suggests positive growth trajectory post-June 2017.
+* Price increase simulation indicates marginal impact on revenue from premium segments.
 
 
 
