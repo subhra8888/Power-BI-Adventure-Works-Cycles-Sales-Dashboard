@@ -16,11 +16,11 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
 
 ## Project Highlights
   This project involved the following tasks:
-  * Connecting and transforming the raw data
-  * Building a relational data model
-  * Creating calculated columns and measures using DAX
-  * Created a rolling calendar using PowerQuery M code
-  * Building an interactive dashboard
+  * **Forecasting:** Projected revenue trends for the next 6 months with a 90% confidence interval.
+  * **What-If Analysis:** Dynamic adjustment of product pricing and impact on revenue.
+  * **Key Influencers:** Analyze how different factors affect order quantity.
+  * **RLS:** Data restricted by user role to maintain confidentiality.
+  * **Interactive Dashboard:** Filters, tooltips, and bookmarks enhance report navigation and insights.
 
 ## Dashboard Elements
  ### Executive Summary View
