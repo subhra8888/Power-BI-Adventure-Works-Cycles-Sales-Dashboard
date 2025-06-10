@@ -60,11 +60,8 @@ A Microsoft Power BI business intelligence dashboard designed for **AdventureWor
 
 ## 📈 Key Insights
 * United States contributes the highest revenue share.
-* Accessories and Bikes are top-performing categories.
-* YOY revenue shows a steady upward trend despite return rates.
-* Customer concentration is high — a few customers account for the bulk of revenue.
-* Forecast suggests positive growth trajectory post-June 2017.
-* Price increase simulation indicates marginal impact on revenue from premium segments.
+*Revenue exceeded by 5.8%, indicating strong performance and potential growth opportunities
+* Forecast suggests positive revenue growth.
 
 # 📂 Dataset
 [Click here to access the Power BI dataset](https://drive.google.com/drive/folders/1evNA3oT4vTgGGTYEmuAqQFJc-sH_WRzr?usp=sharing)
