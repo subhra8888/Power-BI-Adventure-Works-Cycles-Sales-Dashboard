@@ -1,12 +1,12 @@
 # AdventureWorks Power BI Dashboard
 
-## Project Description
+## 📘 Project Description
 A Microsoft Power BI business intelligence dashboard designed for **AdventureWorks**, a fictional global manufacturing company that produces cycling equipment and accessories. This project explores the company’s performance across sales, returns, and customer trends from **01/01/2015 to 30/06/2017**, spanning 6 countries across 3 continents:
 **Australia, Canada, France, Germany, United Kingdom, and the United States.**
 A Microsoft Power BI business intelligence dashboard for AdventureWorks, a fictional global manufacturing company that produces cycling equipment and accessories.
 This data was derived from the [AdventureWorks sample databases](https://drive.google.com/drive/folders/1evNA3oT4vTgGGTYEmuAqQFJc-sH_WRzr?usp=sharing) available from Microsoft. 
 
-## Features
+## ⭐ Features
 * Interactive, multi-page Power BI dashboard.
 * Sales, returns, and customer analysis with multiple visual types.
 * Forecasting and what-if analysis.
@@ -14,7 +14,7 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
 * Natural Language Query (NLQ) integration.
 * Custom tooltips, slicers, and bookmarks for enhanced user experience.
 
-## Project Highlights
+## 🔍 Project Highlights
   This project involved the following tasks:
   * **Forecasting:** Projected revenue trends for the next 6 months with a 90% confidence interval.
   * **What-If Analysis:** Dynamic adjustment of product pricing and impact on revenue.
@@ -23,18 +23,32 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
   * **Interactive Dashboard:** Filters, tooltips, and bookmarks enhance report navigation and insights.
 
 ## 📊 Dashboard Elements
- ### Map View
+ ### 🌍 Map View
   * **Revenue by Country** – Map visual
   * **Top 5 Customers by Revenue via NLQ** – Matrix filtered by region
  *  **Bookmark** – Highlights Europe’s 6-month World Cup duration
 
- ### Map View
- * Total orders per country
- ### Product Detail View
-* Per-product performance against order, revenue and profit targets
-* "What if" analysis via price adjustment shows adjusted profit
- ### Customer Detail View
- * Total customer and per-customer revenue analysis
+ ### 🛍️ Product Detail View
+ * **Revenue by Product Category** – Donut chart
+ * **Return Quantity & Return Rate by Product** – Matrix
+ * **Product Revenue & YoY Growth** – Scroller chart
+ * **Order Quantity by Sub-Category** – Clustered bar chart
+ * **What-If Parameter** – Simulate % increase/decrease in product price
+ * **Decomposition Tree** – Drill-down on Revenue by Category > Sub-Category > Product
+   
+ ### 👥 Customer Insights View
+* **Top 5 Customers by Revenue** – Stacked bar chart
+* **Top 5 Customers by Revenue (Matrix)**
+* **Bottom 5 Customers by Revenue (Matrix)**
+* **Key Influencers** – Analyze Order Quantity by Product Price and Country
+  
+ ### 📈 Performance & Trend View
+ * YOY Revenue Growth – Line and stacked column chart
+ * Monthly Revenue Forecast – Line chart with 90% confidence interval
+ * Monthly Return Quantity, Orders & Returns – Area chart
+ * KPI Cards:
+ **Revenue vs Target Revenue
+ 
  ### Custom UI Elements
 * Filter pane for filtering by year and geography
 * Custom tooltip for product category order metrics
