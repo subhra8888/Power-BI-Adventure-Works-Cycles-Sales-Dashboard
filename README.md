@@ -77,9 +77,7 @@ A Microsoft Power BI business intelligence dashboard designed for **AdventureWor
 * Product Details
   
 ![image alt](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard/blob/master/Product%20Details.png)
-![image alt](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard/blob/master/Key%20Influncer.png)
-![image alt](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard/blob/master/NLQ.png)
-![image alt](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard/blob/master/Decomposition%20Tree.png)
+
 
 
 
