@@ -43,15 +43,22 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
 * **Key Influencers** – Analyze Order Quantity by Product Price and Country
   
  ### 📈 Performance & Trend View
- * YOY Revenue Growth – Line and stacked column chart
- * Monthly Revenue Forecast – Line chart with 90% confidence interval
- * Monthly Return Quantity, Orders & Returns – Area chart
- * KPI Cards:
+ * **YOY Revenue Growth** – Line and stacked column chart
+ * **Monthly Revenue Forecast** – Line chart with 90% confidence interval
+ * **Monthly Return Quantity, Orders & Returns** – Area chart
+ * **KPI Cards:**
    * Revenue vs Target Revenue
+   * Order Quantity vs Target
+   * Return Quantity vs Target
  
- ### Custom UI Elements
-* Filter pane for filtering by year and geography
-* Custom tooltip for product category order metrics
+ ### 🎯 Target Comparison View
+* **Revenue vs Target Revenue** – Gauge Chart
+* **Order Quantity vs Target Order Quantity** – Gauge Chart
+
+ ### 🛡️ Admin & Security View
+ * **Row Level Security (RLS)** – User-specific filtering
+ * **Tooltip** – Return quantity by category
+ * **Global Year Filter** – Page-level filter across all views
 
 ## Insights
 * Approximately $24.9 million in revenue and $10.5 million in profit was generated between 01/01/2020 and 30/06/2022. There is an appreciable dip in revenue between 01/06/2020 and 01/11/2020 (possibly due to the simulated impact of the COVID-19 pandemic), after which revenue appears to grow linearly. December 2021 was an exceptional year in terms of revenue at $1.64 million, and it would be worth investigated the cause of this. Was this due to a highly successful seasonal campaign, e.g. a Black Friday promotion?
