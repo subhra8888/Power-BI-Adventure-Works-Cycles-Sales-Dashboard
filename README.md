@@ -71,6 +71,10 @@ This data was derived from the [AdventureWorks sample databases](https://drive.g
 ### 📂 Dataset Link
 [Click here to access the Power BI dataset](https://drive.google.com/drive/folders/1evNA3oT4vTgGGTYEmuAqQFJc-sH_WRzr?usp=sharing)
 
+### 🖼️ Report Screenshot
+[Power BI Dashboard](assets/dashboard.png)
+
+
 
   
 
