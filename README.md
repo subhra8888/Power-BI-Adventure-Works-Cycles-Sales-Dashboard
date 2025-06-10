@@ -70,11 +70,11 @@ A Microsoft Power BI business intelligence dashboard designed for **AdventureWor
 [Click here to access the Power BI dataset](https://drive.google.com/drive/folders/1evNA3oT4vTgGGTYEmuAqQFJc-sH_WRzr?usp=sharing)
 
 ### 🖼️ Report Screenshot
-* Final Report View
+* **Final Report View**
   
 ![image alt](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard/blob/master/Final%20Report%20View.png)
 
-* Product Details
+* **Product Details**
   
 ![image alt](https://github.com/subhra8888/Power-BI-Adventure-Works-Cycles-Sales-Dashboard/blob/master/Product%20Details.png)
 
