@@ -1,7 +1,7 @@
 # AdventureWorks Power BI Dashboard
 
 ## 📘 Project Description
-A Microsoft Power BI business intelligence dashboard designed for **AdventureWorks**, a fictional global manufacturing company that produces cycling equipment and accessories. This project explores the company’s performance across sales, returns, and customer trends from **01/01/2015 to 30/06/2017**, spanning 6 countries across 3 continents:
+A Microsoft Power BI business intelligence dashboard designed for **AdventureWorks**, a fictional global manufacturing company that produces cycling equipment and accessories. This project explores the company’s performance across sales, returns, and customer trends from **01/01/2015 to 30/06/2017** i.e. 2.5 years, spanning 6 countries across 3 continents:
 **Australia, Canada, France, Germany, United Kingdom, and the United States.**
 
 ## ⭐ Features
